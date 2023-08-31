@@ -14,8 +14,8 @@ We're pretty much using the [Gitflow Workflow](https://www.atlassian.com/git/tut
 
 ## How to get started  
 
-If you've never worked with or used GitHub before then please get started by visiting this [repo](https://www.github.com/swf-colab). 
+If you've never worked with or used GitHub before then please get started by visiting this [repo](https://www.github.com/soilwaterfish/swf-colab). 
 
 ## How to interact  
 
-A lot of development ideas and links will be located at the [swf-colab](https://www.github.com/swf-colab) repo. Please go there to contribute!  
+A lot of development ideas and links will be located at the [swf-colab](https://www.github.com/soilwaterfish/swf-colab) repo. Please go there to contribute!  
