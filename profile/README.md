@@ -1,6 +1,10 @@
 # Open Science Development - Soil - Water - Fisheries
 
-This is a organization for housing all language agnostic open source gis and data packages.
+This is a organization for housing all language agnostic open source gis and data packages, tools, etc.  
+
+It is meant to help practitioners get involved with development, communication, and collobartion in a natural resource context. 
+
+This is a Free and Open Source Software repository. Everything you see here is meant to be open source. With that being said, if you have private information that you can't share and you share, that's on you!  
 
 ## Repo guidelines:
 
